@@ -2,6 +2,10 @@
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
+Open this repo in Gitpod, a free online dev environment:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/svenefftinge/academic-kickstart)
+
 **Academic Kickstart** provides a minimal template to kickstart your new website.
 
 - [**Get Started**](#install)
